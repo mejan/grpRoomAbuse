@@ -41,7 +41,7 @@ npm install #In the nightmare directory.
 ```
 change directory to the nightmare:
 ```
-npm install nightmare
+npm install
 ```
 ### Installation options ###
 For installing certain version of the files use:<br\>
