@@ -1,0 +1,27 @@
+{
+  "name": "grproomabuse",
+  "version": "1.0.0",
+  "description": "abusesgrproombookingsystem",
+  "main": "index.js",
+  "scripts": {
+    "test": "penis"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mejan/grpRoomAbuse.git"
+  },
+  "keywords": [
+    "abuse",
+    "miun",
+    "grproom"
+  ],
+  "author": "Mikael Falck (mejan)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mejan/grpRoomAbuse/issues"
+  },
+  "homepage": "https://github.com/mejan/grpRoomAbuse#readme",
+  "dependencies": {
+    "nightmare": "^2.9.1"
+  }
+}
